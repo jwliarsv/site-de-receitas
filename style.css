@@ -29,7 +29,9 @@ nav {
 }
 
 main {
-
+ background: url("/+800.jpg") no-repeat center center;
+    background-size: cover;
+    height: 92vh;
 }
 
 .nav-list {
