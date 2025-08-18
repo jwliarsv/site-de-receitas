@@ -12,3 +12,11 @@ img {
 body {
     font-family: 'Times New Roman', Times, serif;
 }
+
+ul.topicos {
+    list-style-type: disc;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
