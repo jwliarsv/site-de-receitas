@@ -43,7 +43,7 @@ main {
 }
 
 .cabeçalho {
-    background: linear-gradient(135deg, #ff5ba2, #ff8a65);
+    background: linear-gradient(135deg, #ff5ba2);
     color: white;
     padding: 25px 0;
     text-align: center;
