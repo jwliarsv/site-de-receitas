@@ -25,6 +25,7 @@ ol {
 }
 
 main {
-    max-width: 5000px;
+    font-size: 200px;
+    max-width: 800px;
     text-align:left;
 }
