@@ -41,3 +41,13 @@ main {
     margin: 0px auto;
     border-radius: 5px;
 }
+
+.cabeçalho {
+    background: linear-gradient(135deg, #ff5ba2, #ff8a65);
+    color: white;
+    padding: 25px 0;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
