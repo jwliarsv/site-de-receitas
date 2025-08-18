@@ -1,7 +1,7 @@
 * {
     margin: 0%;
     padding: 0;
-    background-color: #f7c1a5;
+    box-sizing: border-box;
 }
 
 img {
@@ -16,6 +16,7 @@ div {
 
 body {
     font-family: 'Times New Roman', Times, serif;
+    background-color: #f7c1a5;
 }
 
 ul {
