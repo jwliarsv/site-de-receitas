@@ -9,6 +9,11 @@ img {
     height: 300px;
 }
 
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
 body {
     font-family: 'Times New Roman', Times, serif;
 }
