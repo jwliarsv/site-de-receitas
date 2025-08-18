@@ -11,6 +11,10 @@ img {
 
 body {
     font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #000000;
+    padding: 20px;
 }
 
 ul {
