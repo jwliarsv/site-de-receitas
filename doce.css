@@ -33,8 +33,4 @@ main {
     line-height: 1.5;
     max-width: 800px;
     text-align:left;
-    margin: 2px auto;
-    background-color: white;
-    padding: 3px;
-    border-radius: 5px;
 }
