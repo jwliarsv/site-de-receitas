@@ -44,6 +44,7 @@ main {
 }
 
 .cabeçalho {
+    font-size: 15px;
     background: linear-gradient(135deg, #ff5ba2);
     color: white;
     padding: 15px 0;
